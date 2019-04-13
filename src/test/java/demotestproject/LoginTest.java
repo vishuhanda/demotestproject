@@ -1,7 +1,10 @@
 package demotestproject;
 
-import static org.testng.Assert.assertEquals;
 
+
+import static org.testng.AssertJUnit.assertEquals;
+
+import org.testng.Assert;
 import org.testng.annotations.Test;
 
 public class LoginTest {
@@ -9,11 +12,12 @@ public class LoginTest {
 	
 	@Test
 	public void doLogin() {
-		assertEquals(true, true);
-		assertEquals(true, true);
-		assertEquals(true, true);
 		
+		Assert.assertEquals(true, true);
 	}
 	
-	
+	@Test
+	public void doLogout() {
+		Assert.assertEquals(true, true);
+	}
 }
