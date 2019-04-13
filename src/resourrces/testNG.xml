@@ -15,11 +15,11 @@
 		</groups> -->
 
 
-		<!-- <classes>
-			<class name="testProject.LearnMoreTestCase" />
-			<class name="testProject.HomepageTestCase" />
-			<class name="testProject.TellUsTestCase" />
-		</classes> -->
+		 <classes>
+			<class name="demotestproject.LoginTest" />
+			<!-- <class name="testProject.HomepageTestCase" />
+			<class name="testProject.TellUsTestCase" /> -->
+		</classes> 
 
 
 

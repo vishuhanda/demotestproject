@@ -41,7 +41,7 @@
 					<!-- <testFailureIgnore>true</testFailureIgnore> -->
 
 					<suiteXmlFiles>
-						<suiteXmlFile>src/main/resources/testng.xml</suiteXmlFile>
+						<suiteXmlFile>src/resourrces/testNG.xml</suiteXmlFile>
 					</suiteXmlFiles>
 
 				</configuration>
