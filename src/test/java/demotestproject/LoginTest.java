@@ -25,4 +25,9 @@ public class LoginTest {
 	public void doworkout() {
 		Assert.assertEquals(true, true);
 	}
+	
+	@Test
+	public void doworkoutbad() {
+		Assert.assertEquals(true, true);
+	}
 }
