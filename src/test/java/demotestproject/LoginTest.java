@@ -10,7 +10,7 @@ public class LoginTest {
 	@Test
 	public void doLogin() {
 		assertEquals(true, true);
-		assertEquals(true, true);
+		
 	}
 	
 	
