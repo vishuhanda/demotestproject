@@ -11,6 +11,7 @@ public class LoginTest {
 	public void doLogin() {
 		assertEquals(true, true);
 		assertEquals(true, true);
+		assertEquals(true, true);
 		
 	}
 	
