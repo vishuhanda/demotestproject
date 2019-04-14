@@ -14,6 +14,7 @@ public class LoginTest {
 	public void doLogin() {
 		
 		Assert.assertEquals(true, true);
+		System.out.println(System.getProperty("hello"));
 	}
 	
 	@Test
